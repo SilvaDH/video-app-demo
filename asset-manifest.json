@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Deploy-Training-Videos-Page/static/js/main.6b8bf14f.js",
+    "static/media/logo.png": "/Deploy-Training-Videos-Page/static/media/logo.abe066fa93739beb0132.png",
+    "index.html": "/Deploy-Training-Videos-Page/index.html",
+    "main.6b8bf14f.js.map": "/Deploy-Training-Videos-Page/static/js/main.6b8bf14f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6b8bf14f.js"
+  ]
+}
